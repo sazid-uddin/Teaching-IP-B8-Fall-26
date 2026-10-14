@@ -3,6 +3,7 @@
 #### Topics Covered:
 
 - `for` loops and loop control variables
+- Basic introduction to arrays (will be covered in detail in next class)
 - Calculating sums and triangular numbers
 - Increment and decrement operators (`++`, `--`)
     - Pre-increment and post-increment

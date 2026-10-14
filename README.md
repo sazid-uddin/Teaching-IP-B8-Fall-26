@@ -14,6 +14,8 @@
 2. [Class 2 - 30 Sept](Class2/README.md)
 3. [Class 3 - 5 Oct](Class3/README.md)
 4. [Class 4 - 7 Oct](Class4/README.md)
+5. [Class 5 - 12 Oct](Class5/README.md)
+6. [Class 6 - 14 Oct](Class6/README.md)
 
 ## Semester: Fall 2026-27 - Course: Introduction to Programming
 Course Slides and Materials: Please find the link in the notice on AIUB portal.

@@ -13,3 +13,7 @@
 
 - [Sum and increment/decrement examples](sum.cpp)
 - [Triangular number](traingular_num.cpp)
+
+> [!WARNING] Quiz Announcement
+> Quiz 1 will be held on Saturday, Oct 18.
+> Syllabus: everything covered in Class 1 to Class 6.
